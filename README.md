@@ -1,16 +1,18 @@
-### Hi there 👋
+Bienvenidos a mi perfil de GitHub! 👋
+¡Hola a todos! Soy Rodrigo Araujo, un estudiante apasionado de desarrollo de aplicaciones multiplataforma. Aquí encontrarás algunos de mis proyectos y contribuciones en diferentes tecnologías. ¡Echa un vistazo y no dudes en contactarme si quieres colaborar en algo genial!
 
-<!--
-**SrRodrigo/SrRodrigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Acerca de mí 🚀
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma.
+💻 Apasionado por la programación y la resolución de problemas.
+🌱 Siempre aprendiendo y mejorando mis habilidades.
 
-Here are some ideas to get you started:
+Tecnologías que manejo 🛠️
+☕ Java
+📱 Android Studio
+🚀 Laravel
+💻 PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contáctame 📫
+Correo electrónico: rodrigo.araujomora@gmail.com
+
+¡Gracias por visitar mi perfil! 😊
